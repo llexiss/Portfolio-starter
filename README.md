@@ -1,7 +1,7 @@
 # The base of the project
 This academic research is entirely based on using [the dataset from Kaggle](https://www.kaggle.com/datasets/mokar2001/house-price-tehran-iran)  
 
-# Our team
+# Our team n
 There is no I in team - I wouldn't have done this project without my great friends ([Lisa](https://github.com/ElizavetaTarTar) and [Azat](https://github.com/gachibek))
 
 # What this project is about?
