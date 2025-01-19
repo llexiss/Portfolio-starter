@@ -4,6 +4,9 @@ This academic research is entirely based on using [the dataset from Kaggle](http
 # Our team
 There is no I in team - I wouldn't have done this project without my great friends ([Lisa](https://github.com/ElizavetaTarTar) and [Azat](https://github.com/gachibek))
 
+# What this project is about?
+We studied the real estate market in Tehran. 
+
 # What this project is for?
 The aim of this study is to determine the dependency of housing prices on their characteristics, using the example of Tehran, the capital of Iran. Before starting the work, we set the following main objectives:
 
